@@ -11,7 +11,7 @@ import SwiftUI
 struct ModalViewsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ModalView()
         }
     }
 }
